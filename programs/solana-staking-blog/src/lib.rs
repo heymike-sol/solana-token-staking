@@ -2,7 +2,7 @@ use anchor_lang::prelude::*;
 use anchor_spl::token::{self, MintTo, Transfer};
 use anchor_spl::token_interface::{Mint, TokenAccount, TokenInterface};
 
-declare_id!("7MHr6ZPGTWZkRk6m52GfEWoMxSV7EoDjYyoXAYf3MBwS");
+declare_id!("DJUvUmSc7JTvRDcLDXJSF97PsvenuBSTi6WUWJLQvuqt");
 
 #[program]
 pub mod solana_staking_blog {
